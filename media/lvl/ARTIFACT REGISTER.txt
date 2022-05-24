@@ -1,0 +1,18 @@
+[5,  lvl 3] Comb
+[1,  lvl 10] Sailboat
+[3,  lvl 21] Mushroom
+[4,  lvl 24] TV
+[15, lvl 38] Helicopter
+[14, lvl 42] Gun [Pistol]
+[11, lvl 53] Umbrella
+[9,  lvl 57] Present [GIFT]
+[6,  lvl 59] Apple
+[2,  lvl 66] Sunnies
+[7,  lvl 69] Spider Web
+[8,  lvl 77] Hourglass
+[16, lvl 88] Martini
+[10, lvl 90] Ring
+[12, lvl 93] Dolphin
+[13, lvl 95] Spy
+[17, lvl 97] Graveyard
+[18, lvl 99] Crystals
