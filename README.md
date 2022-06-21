@@ -2,9 +2,6 @@
 Physics based puzzle game for mobile devices created by one-man indie games studio immortal.digital. Na4 is coded using the appgamekit framework.
 It reached top 10 new paid games on Google Play on release.
 
-# Download here!
-https://play.google.com/store/apps/details?id=digital.immortal.na4
-
 # Features
 - Stylistic graphics and audio design
 - 100 hand-designed levels, many of which creatively involve custom coding to manipulate physics or design elements
@@ -28,7 +25,8 @@ https://play.google.com/store/apps/details?id=digital.immortal.na4
 <img src="/files/dystopia.png" width="32%" height="32%"> <img src="/files/rain.png" width="32%" height="32%"> <img src="/files/lasers.png" width="32%" height="32%">
 <img src="/files/levels.png" width="32%" height="32%"> <img src="/files/adfree.png" width="32%" height="32%">
 
-
+# Download here!
+https://play.google.com/store/apps/details?id=digital.immortal.na4
 
 # Compilation
 
